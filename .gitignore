@@ -16,7 +16,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
+local/
+apps/qhull
 # =========================
 # Operating System Files
 # =========================
