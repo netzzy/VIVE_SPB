@@ -18,6 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 local/
 apps/qhull
+SCULPT/*
+backup/
 # =========================
 # Operating System Files
 # =========================
